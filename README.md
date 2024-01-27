@@ -27,6 +27,7 @@ Since then I pushed **{{ COMMITS }}** + commits, opened **{{ ISSUES }}** + issue
 - 💬 &nbsp; Ask me anything [here](https://github.com/ubudab109/ubudab109/issues/2)! I am happy to help.
 - 👾 &nbsp; Fun fact: Make me your 'const'. So I will not be replaced by anyone.
 - 📫 &nbsp; Reach me out: rizkyfirdaus0309@gmail.com.
+- 🎫 &nbsp; [Resume](https://drive.google.com/file/d/1ZuvxxjLD7jOJsEIA23fkZPG7gNxMlzVq/view?usp=drive_link)
 
 ### My Absolute Favorites:
 
