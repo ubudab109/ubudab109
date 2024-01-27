@@ -13,11 +13,6 @@ I'm an explorer of new tech, an avid learner, and a problem-solver at heart. Cur
 
 Feel free to connect with me @ubudab109 for all things tech or just to say hello! Let's shape the future of tech together. 🌟
 
-Joined Github **{{ ACCOUNT_AGE }}** years ago.
-
-Since then I pushed **{{ COMMITS }}** + commits, opened **{{ ISSUES }}** + issues, submitted **{{ PULL_REQUESTS }}** + pull requests, created **{{ GISTS }}** + gists and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** + public repositories.
-
-
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
 ### Talking about Personal Stuff:
