@@ -5,7 +5,7 @@
 
 ### About Me! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
 
-I am a Full Stack Developer with over 5-years experience. Currently working at Indonesian government social security for workers, namely the Social Security Administrator for Employment (BPJS Ketenagakerjaan) as Fullstack Developer with focus on providing social security for employee such as Old Age Security, Death Insurance, Work Accident Insurance, etc. 🚀
+I am a Full Stack Developer with over 6-years experience. Currently working at [Trinity Wizards](https://www.trinitywizards.com/) an IT Services company based from Malaysia as Senior Web Application Engineer. 🚀
 
 I have a passion for problem-solving and pioneering first-principle thinking, driven by purpose and fueled by the challenge of finding solutions, with a strong foundation in PHP, Javascript, Nodejs, SQL (MySQL, Postgree, Oracle) NoSQL (MongoDB, Redis), Vue.JS, Nuxt.JS React, Nextjs, AWS, etc.
 
@@ -22,7 +22,7 @@ Feel free to connect with me @ubudab109 for all things tech or just to say hello
 - 💬 &nbsp; Ask me anything [here](https://github.com/ubudab109/ubudab109/issues/2)! I am happy to help.
 - 👾 &nbsp; Fun fact: Make me your 'const'. So I will not be replaced by anyone.
 - 📫 &nbsp; Reach me out: rizkyfirdaus0309@gmail.com.
-- 🎫 &nbsp; <a target="_blank" href="https://drive.google.com/file/d/1ZuvxxjLD7jOJsEIA23fkZPG7gNxMlzVq/view?usp=drive_link">Resume</a>
+- 🎫 &nbsp; <a target="_blank" href="https://drive.google.com/file/d/1wGBK-IhLPsJh_kiGBbD_OT4wHdb5sF8L/view?usp=sharing">Resume</a>
 
 ### My Absolute Favorites:
 
