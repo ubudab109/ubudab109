@@ -5,7 +5,7 @@
 
 ### About Me! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
 
-I am a Full Stack Developer with over 6-years experience. Currently working at [Trinity Wizards](https://www.trinitywizards.com/) an IT Services company based from Malaysia as Senior Web Application Engineer. 🚀
+I am a Senior Software Engineer with over 6-years experience. 🚀
 
 I have a passion for problem-solving and pioneering first-principle thinking, driven by purpose and fueled by the challenge of finding solutions, with a strong foundation in PHP, Javascript, Nodejs, SQL (MySQL, Postgree, Oracle) NoSQL (MongoDB, Redis), Vue.JS, Nuxt.JS React, Nextjs, AWS, etc.
 
