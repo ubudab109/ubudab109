@@ -22,7 +22,7 @@ Feel free to connect with me @ubudab109 for all things tech or just to say hello
 - 💬 &nbsp; Ask me anything [here](https://github.com/ubudab109/ubudab109/issues/2)! I am happy to help.
 - 👾 &nbsp; Fun fact: Make me your 'const'. So I will not be replaced by anyone.
 - 📫 &nbsp; Reach me out: rizkyfirdaus0309@gmail.com.
-- 🎫 &nbsp; <a target="_blank" href="https://drive.google.com/file/d/1wGBK-IhLPsJh_kiGBbD_OT4wHdb5sF8L/view?usp=sharing">Resume</a>
+- 🎫 &nbsp; <a target="_blank" href="https://rizkydausprofile.site">Personal Website</a>
 
 ### My Absolute Favorites:
 
